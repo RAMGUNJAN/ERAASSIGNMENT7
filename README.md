@@ -22,7 +22,7 @@ Analysis: Accurcay increased but some case of underfitting
 
 ..........................................................
 
-Model 4th : Use Data Augmentation 
+Model 4th : Use Data Augmentation like rotation
 Targets:Accuracy increased : 
 Results: Train Accuracy : 99.09 , Test Accurcay : 99.40
 Analysis: Accurcay decreased but some case of underfitting
